@@ -15,9 +15,12 @@ The script is invoked through a simple command line syntax, as follows:
 After being run, the script will generate the following output in the current directory:
 
 `RWD_OUT.csv
+
 BLN_OUT.csv
+
 LOC_OUT.csv
-graphs/<several files>
+
+graphs/<several png graphs of movement in a trial>
 `
 
 [1]: https://store.continuum.io/cshop/anaconda/ 
